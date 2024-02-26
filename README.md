@@ -1,3 +1,3 @@
 # GitPractiseLearn
 
-## Welcome to this leanign session
+## Welcome to this learning session
