@@ -1,3 +1,5 @@
 # GitPractiseLearn
 
-## adding second heading to for learning purpose only. 
+## adding a second heading for learning purposes only. 
+
+### adding third heading 
